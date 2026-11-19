@@ -2,13 +2,10 @@
 <defs><style>.m{font-family:'IBM Plex Mono',ui-monospace,monospace}.s{font-family:Georgia,'Times New Roman',serif}</style>
 <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1a1a1a" stroke-opacity=".06"/></pattern></defs>
 <rect width="1280" height="400" fill="#F4F1EA"/><rect width="1280" height="400" fill="url(#g)"/>
-<rect x="0" y="0" width="14" height="400" fill="#FC3D21"/>
-<text x="80" y="92" class="m" font-size="18" letter-spacing="4" fill="#FC3D21">MILLZ — OWNER-RUN STUDIO</text>
-<text x="76" y="225" class="s" font-size="132" font-style="italic" fill="#141414">Millz<tspan fill="#FC3D21">.</tspan></text>
+<rect x="0" y="0" width="14" height="400" fill="#b4432c"/>
+<text x="80" y="92" class="m" font-size="18" letter-spacing="4" fill="#b4432c">MILLZ / OWNER-RUN STUDIO</text>
+<text x="76" y="225" class="s" font-size="132" font-style="italic" fill="#141414">Millz<tspan fill="#b4432c">.</tspan></text>
 <text x="80" y="285" class="s" font-size="34" fill="#141414">I study why people pay attention.</text>
-<text x="80" y="345" class="m" font-size="17" letter-spacing="1.5" fill="#555">sites · discord communities &amp; bots · brand · video · ai agents</text>
-<g transform="translate(1040,200)" fill="none" stroke="#FC3D21">
-<circle r="40" stroke-width="2"/><circle r="80" stroke-opacity=".6"/><circle r="120" stroke-opacity=".35"/><circle r="160" stroke-opacity=".18"/></g>
-<circle cx="1040" cy="200" r="10" fill="#FC3D21"/>
-<text x="1200" y="370" class="m" font-size="14" text-anchor="end" fill="#888">millzbot × ripple mill marketing</text>
+<text x="80" y="345" class="m" font-size="17" letter-spacing="1.5" fill="#555">brand · websites · lead generation · outreach · communities · video</text>
+<g transform="translate(905,45) scale(9.7)"><g fill="none" stroke="#141414" stroke-width="1.5"><circle cx="16" cy="16" r="14"/><circle cx="16" cy="16" r="9.5"/><circle cx="16" cy="16" r="5"/></g><circle cx="16" cy="16" r="2.2" fill="#b4432c"/></g>
 </svg>
